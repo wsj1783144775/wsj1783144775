@@ -9,4 +9,4 @@ Email: 18779891826@163.com
 Education:
 2025.09–Present: Master student, Guizhou University
 
-Research interests:Federal Leanring , LLM , MCL
+Research interests:Federated Learning , LLM , MCL
